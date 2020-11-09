@@ -18,6 +18,6 @@ This project will be a procedural generation tool designed to create a city-scap
 ![Screenshot of User Story](https://i.gyazo.com/2b81936cecfd556adcc66587dd9e4f6a.png)
 
 # Roadmap
-![Screenshot of Roadmap](https://i.gyazo.com/4de91fb7dda097d3c39dce0eb0a84fae.png)
+![Screenshot of Roadmap](https://i.gyazo.com/6630b705efbb41d7ac401f182fdc16dc.png)
 
 # Setup guide
