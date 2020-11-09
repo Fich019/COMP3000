@@ -1,5 +1,7 @@
-# COMP3000 Project
+# COMP3000 Project - Zack Hawkins [10587295]
 This is the repository for the COMP3000 individual project. I will be using unity for the development of the project throughout as well as other tools to aid with agile development and communication with my supervisor.
+
+Supervisor: Paul Watson
 
 
 # Project Layout
